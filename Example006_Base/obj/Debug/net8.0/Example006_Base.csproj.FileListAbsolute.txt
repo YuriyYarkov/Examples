@@ -1,0 +1,15 @@
+C:\Users\srxyo\OneDrive\Рабочий стол\Examples\Example006_Base\bin\Debug\net8.0\Example006_Base.exe
+C:\Users\srxyo\OneDrive\Рабочий стол\Examples\Example006_Base\bin\Debug\net8.0\Example006_Base.deps.json
+C:\Users\srxyo\OneDrive\Рабочий стол\Examples\Example006_Base\bin\Debug\net8.0\Example006_Base.runtimeconfig.json
+C:\Users\srxyo\OneDrive\Рабочий стол\Examples\Example006_Base\bin\Debug\net8.0\Example006_Base.dll
+C:\Users\srxyo\OneDrive\Рабочий стол\Examples\Example006_Base\bin\Debug\net8.0\Example006_Base.pdb
+C:\Users\srxyo\OneDrive\Рабочий стол\Examples\Example006_Base\obj\Debug\net8.0\Example006_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srxyo\OneDrive\Рабочий стол\Examples\Example006_Base\obj\Debug\net8.0\Example006_Base.AssemblyInfoInputs.cache
+C:\Users\srxyo\OneDrive\Рабочий стол\Examples\Example006_Base\obj\Debug\net8.0\Example006_Base.AssemblyInfo.cs
+C:\Users\srxyo\OneDrive\Рабочий стол\Examples\Example006_Base\obj\Debug\net8.0\Example006_Base.csproj.CoreCompileInputs.cache
+C:\Users\srxyo\OneDrive\Рабочий стол\Examples\Example006_Base\obj\Debug\net8.0\Example006_Base.sourcelink.json
+C:\Users\srxyo\OneDrive\Рабочий стол\Examples\Example006_Base\obj\Debug\net8.0\Example006_Base.dll
+C:\Users\srxyo\OneDrive\Рабочий стол\Examples\Example006_Base\obj\Debug\net8.0\refint\Example006_Base.dll
+C:\Users\srxyo\OneDrive\Рабочий стол\Examples\Example006_Base\obj\Debug\net8.0\Example006_Base.pdb
+C:\Users\srxyo\OneDrive\Рабочий стол\Examples\Example006_Base\obj\Debug\net8.0\Example006_Base.genruntimeconfig.cache
+C:\Users\srxyo\OneDrive\Рабочий стол\Examples\Example006_Base\obj\Debug\net8.0\ref\Example006_Base.dll
