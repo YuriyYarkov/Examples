@@ -15,4 +15,17 @@
 
 //int[] arr2 = new int[5] {1,2,3,4,5};
 
-int[] arr3 = {1,2,3,4,5};
+//int[] arr3 = {1,2,3,4,5};
+
+int N = 15;
+
+int[] arr = new int[N];
+int i = 0;
+
+while (i < arr.Length)
+{
+    arr[i] = i + 1;
+    Console.Write($"{arr[i]}");
+    Console.Write(" ");
+    i = i + 1;
+}
